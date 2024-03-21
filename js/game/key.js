@@ -1,7 +1,7 @@
 Game.Key = {
   BACKSPACE: 8,
   TAB:       9,
-  RETURN:   13,
+  RETURN:   179,
   ESC:      27,
   SPACE:    13,
   END:      35,
